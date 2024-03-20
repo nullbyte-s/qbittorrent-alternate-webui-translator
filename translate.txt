@@ -1,0 +1,2306 @@
+%1 (%2 max)
+%1 (%2 máx.)
+
+%1 (%2 média)
+Download limit:
+
+%1 (%2 this session)
+%1 (%2 esta sessão)
+
+%1 (%2 total)
+%1 (%2 avg.)
+
+%1 (semeado por %2)
+Info Hash v2:
+
+%1 ago
+%1 atrás
+
+%1 x %2 (have %3)
+%1 x %2 (tem %3)
+
+%1m
+%1 minuto
+
+%1y %2d
+%1a %2d
+
+%C: Number of files
+%C: Número de arquivos
+
+%D: Save path
+%D: Caminho do salvamento
+
+%F: Content path (same as root path for multifile torrent)
+%F: Caminho do conteúdo (o mesmo do caminho raiz para torrent multi-arquivos)
+
+%G: Tags (separated by comma)
+%G: Etiquetas (separadas por vírgula)
+
+%I: Info hash v1
+%I: Informações do hash v1
+
+%J: Info hash v2
+%J: Informações do hash v2
+
+%K: Torrent ID
+%K: ID do Torrent
+
+%L: Category
+Categoria
+
+%N: Torrent name
+%N: Nome do torrent
+
+%R: Root path (first torrent subdirectory path)
+%R: Caminho raiz (primeiro caminho do sub-diretório do torrent)
+
+%T: Current tracker
+%T: Tracker atual
+
+%Z: Torrent size (bytes)
+%Z: Tamanho do torrent (bytes)
+
+&lt; 1 minute
+&lt; 1 minuto
+
+(None)
+(Nenhum)
+
+* to match zero or more of any characters
+* para combinar com zero ou mais de quaisquer caracteres
+
+0 means unlimited
+0 significa ilimitado
+
+? to match any single character
+? para combinar com qualquer caractere único
+
+About qBittorrent
+Sobre o qBittorrent
+
+About
+Sobre
+
+Active (%1)
+Ativo (%1)
+
+Active (0)
+Ativo (0)
+
+Add Paused:
+Adicionar pausado:
+
+Add Peers
+Adicionar Peers
+
+Add Tags
+Adicionar etiquetas
+
+Add Torrent File...
+Adicionar Arquivo Torrent...
+
+Add Torrent Link...
+Adicionar Link do Torrent...
+
+Add Torrent Links
+Adicionar links do torrent
+
+Add a new tracker...
+Adicionar um novo tracker...
+
+Add custom HTTP headers
+Adicionar cabeçalhos HTTP personalizados
+
+Add new rule...
+Adicionar nova regra...
+
+Add peers...
+Adicionar peers...
+
+Add tag...
+Adicionar etiqueta...
+
+Add to top of queue
+Adicionar ao topo da fila
+
+Add trackers...
+Adicionar trackers...
+
+Add trackers
+Adicionar trackers
+
+Add...
+Adicionar...
+
+Add
+Adicionar
+
+Added On:
+Adicionado em:
+
+Added On
+Adicionado em
+
+Adicionar categoria...
+Add subcategory...
+
+Adicionar subcategoria...
+Remove category
+
+Advanced
+Avançado
+
+Ajuda
+View
+
+All (%1)
+Todos (%1)
+
+All (0)
+Todos (0)
+
+All IPv4 addresses
+Todos os endereços IPv4
+
+All IPv6 addresses
+Todos os endereços IPv6
+
+All addresses
+Todos os endereços
+
+All categories
+Todas as categorias
+
+All plugins
+Todos os plugins
+
+All-time download:
+Download de todos os tempos:
+
+All-time share ratio:
+Proporção do compartilhamento de todos os tempos:
+
+All-time upload:
+Upload de todos os tempos:
+
+Allow encryption
+Permitir encriptação
+
+Allow multiple connections from the same IP address:
+Permitir múltiplas conexões do mesmo endereço de IP:
+
+Also permanently delete the files
+Também excluir permanentemente os arquivos
+
+Alternative Rate Limits
+Limites Alternativos da Taxa
+
+Alternative download rate limit must be greater than 0 or disabled.
+O limite da taxa alternativa do download deve ser maior do que 0 ou desativado.
+
+Alternative speed limits: Off
+Limites alternativos da velocidade: Desligado
+
+Alternative speed limits: On
+Limites alternativos da velocidade: Ligado
+
+Alternative speed limits
+Limites alternativos de velocidade
+
+Alternative upload rate limit must be greater than 0 or disabled.
+O limite da taxa global do upload alternativa deve ser maior do que 0 ou desativado.
+
+Always announce to all tiers:
+Sempre anunciar em todos as camadas:
+
+Always announce to all trackers in a tier:
+Sempre anunciar em todos os trackers numa camada:
+
+Amount of data completed (e.g. in MB)
+Quantidade de dados concluídos (por exemplo, em MB)
+
+Amount of data downloaded (e.g. in MB)
+Quantidade de dados baixados (por exemplo, em MB)
+
+Amount of data downloaded since program open (e.g. in MB)
+Quantidade de dados baixados desde a abertura do programa (por exemplo, em MB)
+
+Amount of data left to download (e.g. in MB)
+Quantidade de dados restantes para download (por exemplo, em MB)
+
+Amount of data uploaded (e.g. in MB)
+Quantidade de dados enviados (por exemplo, em MB)
+
+Amount of data uploaded since program open (e.g. in MB)
+Quantidade de dados enviados desde a abertura do programa (por exemplo, em MB)
+
+An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.
+Um cliente BitTorrent avançado programado em C++, baseado no Qt toolkit e libtorrent-rasterbar.
+
+An expression with an empty %1 clause (e.g. %2)
+Uma expressão com uma cláusula %1 vazia (ex: %2)
+
+Any interface
+Qualquer interface
+
+Apagar
+Pause All
+
+Append .!qB extension to incomplete files
+Adicionar a extensão .!qB aos arquivos incompletos
+
+Apply Rule to Feeds:
+Aplicar a regra aos feeds:
+
+Apply rate limit to peers on LAN
+Aplicar limite da taxa pros peers na LAN
+
+Apply rate limit to transport overhead
+Aplicar limite da taxa a sobrecarga do transporte
+
+Apply rate limit to µTP protocol
+Aplicar limite da taxa ao protocolo µTP
+
+Apply to trackers
+Aplicar aos trackers
+
+Apply
+Aplicar
+
+Are you sure you want to clear the list of downloaded episodes for the selected rule?
+Você tem certeza que você quer limpar a lista de episódios baixados da regra selecionada?
+
+Are you sure you want to delete the selected RSS feeds?
+Você tem certeza que você quer apagar os feeds do RSS selecionados?
+
+Are you sure you want to permanently ban the selected peers?
+Você tem certeza que você quer banir permanentemente os peers selecionados?
+
+Are you sure you want to quit qBittorrent?
+Você tem certeza que você quer sair do qBittorrent?
+
+Are you sure you want to remove the selected download rules?
+Você tem certeza que você quer remover as regras de download selecionadas?
+
+Are you sure you want to remove the selected torrents from the transfer list?
+Deseja realmente remover os torrents selecionados da lista de transferências?
+
+Arquivo
+Help
+
+Assign Category:
+Atribuir categoria:
+
+Asynchronous I/O threads:
+Threads de E/S assíncronos:
+
+Authentication
+Autenticação
+
+Authors
+Autores
+
+Auto downloading of RSS torrents is disabled now! You can enable it in application settings.
+O download automático de torrents do RSS está desativado agora! Você pode ativá-lo nas configurações do programa.
+
+Automatic Torrent Management
+Gerenciamento automático dos torrents
+
+Automatically add these trackers to new downloads:
+Automaticamente adicionar estes trackers aos novos downloads:
+
+Automatically add torrents from:
+Adicionar automaticamente torrents de:
+
+Automático
+All
+
+Availability
+Disponibilidade
+
+Average time in queue:
+Tempo médio na fila:
+
+Ban client after consecutive failures:
+Banir cliente após falhas consecutivas:
+
+Ban peer permanently
+Banir peer permanentemente
+
+Barra de Ferramentas no Topo
+Status Bar
+
+Barra de Status
+Resume All
+
+Bypass authentication for clients in whitelisted IP subnets
+Ignorar autenticação para clientes nas sub-redes dos IPs da lista branca
+
+Bypass authentication for clients on localhost
+Ignorar autenticação para clientes no hospedeiro local
+
+Cache statistics
+Estatísticas do cache
+
+Cancel
+Cancelar
+
+Categoria:
+Start torrent
+
+Categories
+Categorias
+
+Category
+Categoria
+
+Certificate:
+Certificado:
+
+Change current password
+Mudar a senha atual
+
+Check for updates
+Procurar atualizações
+
+Checking (%1)
+Verificando (%1)
+
+Checking resume data
+Verificando dados de retomada
+
+Checking
+Verificando
+
+Clear downloaded episodes...
+Limpar episódios baixados...
+
+Clear downloaded episodes
+Limpar episódios baixados
+
+Click the "Search plugins..." button at the bottom right of the window to install some.
+Clique no botão "Pesquisar plug-ins..." no canto inferior direito da janela para instalar alguns.
+
+Client
+Cliente
+
+Close
+Fechar
+
+Coalesce reads &amp; writes (requires libtorrent &lt; 2.0):
+Unir as leituras &amp; gravações (requer libtorrent &lt; 2.0):
+
+Comma-separated tags:
+Etiquetas separadas por vírgulas:
+
+Comment:
+Comentário:
+
+Comment
+Comentário
+
+Completed (%1)
+Completado (%1)
+
+Completed (0)
+Completado (0)
+
+Completed On:
+Completado em:
+
+Completed On
+Completado em
+
+Completed
+Completado
+
+Connected peers:
+Peers conectados:
+
+Connection status: Connected
+Status da conexão: Conectado
+
+Connection status: Disconnected
+Status da conexão: Desconectado
+
+Connection status: Firewalled
+Status da conexão: Protegida por firewall
+
+Connection status
+Status da conexão
+
+Connection
+Conexão
+
+Connections Limits
+Limites das Conexões
+
+Connections:
+Conexões:
+
+Content layout:
+Layout do conteúdo:
+
+Content
+Conteúdo
+
+Copy .torrent files for finished downloads to:
+Copiar os arquivos .torrent dos downloads concluídos para:
+
+Copy .torrent files to:
+Copiar arquivos .torrent pra:
+
+Copy IP:port
+Copiar IP:porta
+
+Copy feed URL
+Copiar URL do feed
+
+Copy tracker URL
+Copiar URL do tracker
+
+Copy
+Copiar
+
+Country/Region
+País/Região
+
+Create subfolder
+Criar sub-pasta
+
+Created By:
+Criado por:
+
+Created On:
+Criado em:
+
+Current maintainer
+Responsável atual
+
+DHT: %1 nodes
+DHT: %1 nós
+
+Date: 
+Data: 
+
+Default Save Path:
+Caminho Padrão do Salvamento:
+
+Default Torrent Management Mode:
+Modo de gerenciamento padrão dos torrents:
+
+Default save location
+Local padrão do salvamento
+
+Default
+Padrão
+
+Delete .torrent files afterwards
+Apagar arquivos .torrent posteriormente
+
+Delete rule
+Apagar regra
+
+Delete the torrent
+Deletar o torrent
+
+Delete torrents
+Apagar torrents
+
+Deletion confirmation - qBittorrent
+Confirmação de exclusão - qBittorrent
+
+Deletion confirmation
+Confirmação da exclusão
+
+Deletion confirmation
+Confirmação de exclusão
+
+Description page URL
+URL da página de descrição
+
+Disable OS cache
+Desativar cache do sistema
+
+Disable encryption
+Desativar encriptação
+
+Disabled
+Desativado
+
+Disallow connection to peers on privileged ports:
+Não permitir conexão com peers em portas privilegiadas:
+
+Disk IO read mode:
+Modo de leitura de E/S do disco:
+
+Disk IO type (libtorrent &gt;= 2.0; requires restart):
+Tipo de E/S de disco (libtorrent &gt;= 2.0; requer reinicialização):
+
+Disk IO write mode:
+Modo de escrita de E/S do disco:
+
+Disk cache (requires libtorrent &lt; 2.0):
+Cache do disco (requer libtorrent &lt; 2.0):
+
+Disk cache expiry interval (requires libtorrent &lt; 2.0):
+Intervalo de expiração do cache do disco (requer libtorrent &lt; 2.0):
+
+Disk queue size:
+Tamanho da fila do disco:
+
+Do not count slow torrents in these limits
+Não contar torrents lentos nestes limites
+
+Do not download
+Não baixar
+
+Do not start the download automatically
+Não iniciar o download automaticamente
+
+Doar!
+Edit
+
+Documentação
+Yes
+
+Domain name:
+Nome do domínio:
+
+Don't create subfolder
+Não criar sub-pasta
+
+Done
+Concluído
+
+Down Limit
+Limite do download
+
+Down Speed
+Velocidade de download
+
+Download Limit:
+Limite do Download:
+
+Download Priority
+Prioridade do download
+
+Download REPACK/PROPER episodes
+Baixar episódios REPACK/PROPER
+
+Download Rules
+Regras do Download
+
+Download Torrents from their URLs or Magnet links
+Baixar torrents a partir das URLs ou links magnet deles
+
+Download first and last pieces first
+Baixar primeiros e últimos pedaços primeiro
+
+Download from URLs
+Baixar das URLs
+
+Download in sequential order
+Baixar em ordem sequencial
+
+Download link
+Link do download
+
+Download rate threshold must be greater than 0.
+O limite da taxa de download deve ser maior do que 0.
+
+Download rate threshold:
+Limite da taxa de download:
+
+Download speed icon
+Ícone da velocidade de download
+
+Download torrent
+Baixar torrent
+
+Download
+Baixar
+
+Downloaded:
+Baixados:
+
+Downloaded
+Baixados
+
+Downloading (%1)
+Baixando (%1)
+
+Downloading (0)
+Baixando (0)
+
+Downloading metadata
+Baixando metadados
+
+Downloading
+Baixando
+
+ETA:
+Tempo restante:
+
+ETA
+Tempo restante
+
+Edit Category
+Editar Categoria
+
+Edit auto downloading rules...
+Editar regras do download automático...
+
+Edit tracker URL...
+Editar URL do tracker...
+
+Editar categoria...
+Remover torrents
+
+Editar
+Tools
+
+Email notification upon download completion
+Notificação por email ao completar o download
+
+Embedded tracker port:
+Porta do tracker embutido:
+
+Enable Cross-Site Request Forgery (CSRF) protection
+Ativar proteção contra falsificação de requisição de site cruzado (CSRF)
+
+Enable DHT (decentralized network) to find more peers
+Ativar DHT (rede decentralizada) para achar mais peers
+
+Enable Host header validation
+Ativar validação do cabeçalho do hospedeiro
+
+Enable Local Peer Discovery to find more peers
+Achar Descoberta Local dos Peers para achar mais peers
+
+Enable OS cache
+Ativar cache do sistema
+
+Enable Peer Exchange (PeX) to find more peers
+Ativar Troca dos Peers (PeX) para achar mais peers
+
+Enable anonymous mode
+Ativar modo anônimo
+
+Enable auto downloading of RSS torrents
+Ativar download automático dos torrents do RSS
+
+Enable clickjacking protection
+Ativar proteção contra clickjacking
+
+Enable cookie Secure flag (requires HTTPS)
+Ativar bandeira segura do cookie (requer HTTPS)
+
+Enable embedded tracker:
+Ativar tracker embutido:
+
+Enable fetching RSS feeds
+Ativar a busca de feeds do RSS
+
+Enable reverse proxy support
+Ativar suporte para o proxy reverso
+
+Enable super seeding for torrent
+Ativar super seeding para o torrent
+
+Enabled
+Ativado
+
+Encryption mode:
+Modo de encriptação:
+
+Episode Filter:
+Filtro de episódio:
+
+Episode filter rules: 
+Regras do filtro de episódios: 
+
+Episode number is a mandatory positive value
+O número do episódio é um valor positivo obrigatório
+
+Errored (%1)
+Com erro (%1)
+
+Errored (0)
+Com erro (0)
+
+Errored
+Com erro
+
+Estatísticas
+Pause
+
+Every day
+Todo dia
+
+Everywhere
+Por toda a parte
+
+Example: 
+Exemplo: 
+
+Excluded file names
+Nomes de arquivos excluídos
+
+Execution Log
+Log de execução
+
+Exit qBittorrent
+Sair do qBittorrent
+
+Export .torrent
+Exportar .torrent
+
+Failed to update name
+Falhou em atualizar o nome
+
+Fastest upload
+Upload mais rápido
+
+Feed URL:
+URL do feed:
+
+Feeds refresh interval:
+Intervalo de atualização dos feeds:
+
+Ferramentas
+File
+
+Fetching of RSS feeds is disabled now! You can enable it in application settings.
+A busca de feeds do RSS está desativada agora! Você pode ativá-la nas configurações do programa.
+
+File pool size:
+Tamanho do conjunto de arquivos:
+
+Files checked
+Arquivos verificados
+
+Files location:
+Local dos arquivos:
+
+Files
+Arquivos
+
+Filter must end with semicolon
+O filtro deve terminar com ponto e vírgula
+
+Filter path (.dat, .p2p, .p2b):
+Caminho do filtro (.dat, .p2p, .p2b):
+
+Filter torrent list...
+Filtrar lista de torrents...
+
+Filter
+Filtro
+
+Filters Sidebar
+Barra Lateral dos Filtros
+
+Filters:
+Filtros:
+
+Filtrar arquivos...
+Rename...
+
+Final da fila
+Move to the bottom of the queue
+
+Fixed slots
+Slots fixos
+
+Flags
+Bandeiras
+
+Folder name:
+Nome da pasta:
+
+Force Recheck
+Nova Categoria
+
+Force Resume/start the torrent
+Forçar retomada/iniciar o torrent
+
+Force Resume
+Forçar Retomada
+
+Force reannounce
+Forçar o reanúncio
+
+Force recheck
+Forçar re-verificação
+
+Format: IPv4:port / [IPv6]:port
+Formato: IPv4:porta / [IPv6]:porta
+
+Forum:
+Fórum:
+
+France
+França
+
+Free space: %1
+Espaço livre: %1
+
+Friday
+Sexta
+
+From:
+De:
+
+General
+Geral
+
+Global Download Speed Limit
+Limite da velocidade global de download
+
+Global Rate Limits
+Limites Globais da Taxa
+
+Global Upload Speed Limit
+Limite da velocidade global do upload
+
+Global download rate limit must be greater than 0 or disabled.
+O limite da taxa global do download deve ser maior do que 0 ou desativado.
+
+Global maximum number of connections:
+Número global máximo de conexões:
+
+Global maximum number of upload slots:
+Número global máximo de slots de upload:
+
+Global number of upload slots limit must be greater than 0 or disabled.
+O limite do número global de slots de upload deve ser maior que 0 ou desabilitado.
+
+Global upload rate limit must be greater than 0 or disabled.
+O limite da taxa global do upload deve ser maior do que 0 ou desativado.
+
+Greece
+Grécia
+
+HTTP Sources
+Fontes HTTP
+
+Hashing threads (requires libtorrent &gt;= 2.0):
+Threads do cálculo do hash (requer libtorrent &gt;= 2.0):
+
+Header: value pairs, one per line
+Cabeçalho: pares de valores, um por linha
+
+High (priority)
+Alta (prioridade)
+
+High
+Alta
+
+Host:
+Hospedeiro:
+
+IP Filtering
+Filtragem dos IPs
+
+IP address reported to trackers (requires restart):
+Endereço de IP reportado aos trackers (requer reiniciar):
+
+IP address:
+Endereço de IP:
+
+If word order is important use * instead of whitespace.
+Se as ordem das palavras é importante, use * ao invés de espaço em branco.
+
+Ignorar verificação do hash
+Automatic
+
+Ignore Subsequent Matches for (0 to Disable)
+Ignorar combinações subsequentes para (0 para Desativar)
+
+Inactive (%1)
+Inativo (%1)
+
+Inactive (0)
+Inativo (0)
+
+Increase window width to display additional filters
+Aumentar a largura da janela para exibir filtros adicionais
+
+Indicates the time when the torrent was last seen complete/whole
+Indica o tempo em que o torrent foi visto pela última vez completo/inteiro
+
+Infinite range: &lt;b&gt;1x25-;&lt;/b&gt; matches episodes 25 and upward of season one, and all episodes of later seasons
+Alcance infinito: &lt;b&gt;1x25-;&lt;/b&gt; combina com os episódios 25 e superior da temporada um e todos os episódios das temporadas
+ posteriores
+Info hash v1
+Informações do hash v1
+
+Info hash v2
+Informações do hash v2
+
+Info: The password is saved unencrypted
+Informação: A senha é salva desencriptada
+
+Information about certificates
+Informações sobre os certificados
+
+Information
+Informação
+
+Informações do Hash v1:
+N/A
+
+Informações do Hash v2:
+Info Hash v1:
+
+Iniciar torrent
+Skip hash check
+
+Install new plugin
+Instalar novo plugin
+
+Install plugin
+Instalar plugin
+
+Installed search plugins:
+Plugins de busca instalados:
+
+Invalid Username or Password
+Nome de usuário ou senha inválidos
+
+Invalid category name:\nPlease do not use any special characters in the category name.
+Nome de categoria inválido:\nPor favor não use quaisquer caracteres especiais no nome da categoria.
+
+Invalid tag name
+Nome de etiqueta inválido
+
+It controls the internal state update interval which in turn will affect UI updates
+Ele controla o intervalo de atualização do estado interno que, por sua vez, afetará as atualizações da interface do usuário
+
+JavaScript Required! You must enable JavaScript for the Web UI to work properly
+JavaScript requerido! Você precisa ativar o JavaScript para a interface de usuário da web funcionar apropriadamente
+
+Keep incomplete torrents in:
+Manter torrents incompletos em:
+
+Key:
+Chave:
+
+KiB/s
+KB/s
+
+KiB
+KBs
+
+Language
+Idioma
+
+Last Activity
+Última atividade
+
+Last Match: %1 days ago
+Última combinação: %1 dias atrás
+
+Last Match: Unknown
+Última combinação: desconhecida
+
+Last Seen Complete:
+Visto completo pela última vez:
+
+Last Seen Complete
+Visto completo pela última vez
+
+License
+Licença
+
+Limit download rate...
+Limitar taxa de download...
+
+Limit download rate
+Limite da taxa de download
+
+Limit share ratio...
+Limitar proporção do compartilhamento...
+
+Limit upload rate...
+Limitar taxa de upload...
+
+Limit upload rate
+Limite da taxa de upload
+
+Limite do download:
+Upload limit:
+
+Limite do upload:
+Priority
+
+List of peers to add (one IP per line):
+Lista de peers para adicionar (um IP por linha):
+
+List of trackers to add (one per line):
+Lista de trackers para adicionar (um por linha):
+
+Listening Port
+Porta de Escuta
+
+Location
+Local
+
+Log performance warnings
+Registrar avisos sobre a performance
+
+Logout
+Fazer logout
+
+Magnet link
+Link magnet
+
+Manually banned IP addresses...
+Endereços de IP banidos manualmente...
+
+Mark items read
+Marcar itens como lidos
+
+Matches articles based on episode filter.
+Combina os artigos baseado no filtro de episódios.
+
+Matching RSS Articles
+Artigos do RSS que Combinam
+
+Max active checking torrents:
+Máximo de torrents ativos em verificação:
+
+Max concurrent HTTP announces:
+Máximo de anúncios HTTP simultâneos:
+
+Maximum (priority)
+Máxima (prioridade)
+
+Maximum active downloads must be greater than -1.
+O máximo de downloads ativos deve ser maior do que -1.
+
+Maximum active downloads:
+Máximo de downloads ativos:
+
+Maximum active torrents must be greater than -1.
+O máximo de torrents ativos deve ser maior do que -1.
+
+Maximum active torrents:
+Máximo de torrents ativos:
+
+Maximum active uploads must be greater than -1.
+O máximo de uploads ativos deve ser maior do que -1.
+
+Maximum active uploads:
+Máximo de uploads ativos:
+
+Maximum number of articles per feed:
+Número máximo de artigos por feed:
+
+Maximum number of connections limit must be greater than 0 or disabled.
+O limite do número máximo de conexões deve ser maior do que 0 ou desativado.
+
+Maximum number of connections per torrent limit must be greater than 0 or disabled.
+O limite do número máximo de conexões por torrent deve ser maior do que 0 ou desativado.
+
+Maximum number of connections per torrent:
+Número máximo de conexões por torrent:
+
+Maximum number of upload slots per torrent limit must be greater than 0 or disabled.
+O limite do número máximo de slots de upload por torrent deve ser maior do que 0 ou desativado.
+
+Maximum number of upload slots per torrent:
+Número máximo de slots de upload por torrent:
+
+Maximum outstanding requests to a single peer:
+Máximo de requisições notáveis para um único peer:
+
+Maximum
+Máxima
+
+Memory mapped files
+Arquivos mapeados na memória
+
+Message
+Mensagem
+
+Metadata received
+Metadados recebidos
+
+MiB
+MBs
+
+Missing Files
+Arquivos ausentes
+
+Mixed
+Misto
+
+Monday
+Segunda
+
+More information
+Mais informações
+
+Move Up Queue
+Bottom of Queue
+
+Move down
+Mover para baixo
+
+Move to bottom
+Mover para o rodapé
+
+Move to the top of the queue
+Mover para o topo da fila
+
+Move to top
+Mover para o topo
+
+Move up in the queue
+Mover para cima na fila
+
+Move up
+Mover para cima
+
+Mover para baixo na fila
+Move down in the queue
+
+Mover para o final da fila
+Top of Queue
+
+Moving (%1)
+Movendo (%1)
+
+Moving
+Movendo
+
+Must Contain:
+Deve conter:
+
+Must Not Contain:
+Não deve conter:
+
+N/D
+Progress:
+
+Name cannot be empty
+O nome não pode estar vazio
+
+Name is unchanged
+O nome não foi mudado
+
+Name:
+Nome:
+
+Name
+Nome
+
+Nationality:
+Nacionalidade:
+
+Network interface:
+Interface de rede:
+
+New Tag
+Nova etiqueta
+
+New category...
+Nova categoria...
+
+New feed name:
+Novo nome do feed:
+
+New folder...
+Nova pasta...
+
+New name:
+Novo nome:
+
+New name
+Novo nome
+
+New rule name
+Nome da nova regra
+
+New subscription...
+Nova subscrição...
+
+New subscription
+Nova subscrição
+
+New...
+Nova...
+
+None
+Nenhuma
+
+Normal (priority)
+Normal (prioridade)
+
+Normal range: &lt;b&gt;1x25-40;&lt;/b&gt; matches episodes 25 through 40 of season one
+Alcance normal: &lt;b&gt;1x25-40;&lt;/b&gt; combina com os episódios 25 até 40 da temporada um
+
+Not contacted yet
+Não contactado ainda
+
+Not working
+Não funcionando
+
+Nova categoria
+Edit category...
+
+Não lido
+days
+
+Não
+Category:
+
+Only enabled
+Só ativado
+
+Only one link per line
+Só um link por linha
+
+Open description page
+Abrir página de descrição
+
+Open documentation
+Abrir documentação
+
+Open news URL
+Abrir URL das notícias
+
+Optional IP address to bind to:
+Endereço de IP opcional para se conectar:
+
+Options
+Opções
+
+Opções...
+Resume
+
+Original author
+Autor original
+
+Other...
+Outro...
+
+Outgoing connections per second:
+Conexões de saída por segundo:
+
+Outgoing ports (Max) [0: Disabled]:
+Portas de saída (Máx) [0: Desativado]:
+
+Outgoing ports (Min) [0: Disabled]:
+Portas de saída (Mín) [0: Desativado]:
+
+Outstanding memory when checking torrents:
+Memória excelente quando verificar os torrents:
+
+POSIX-compliant
+Compatível com POSIX
+
+Password:
+Senha:
+
+Password
+Senha
+
+Pasta monitorada
+Override Save Location
+
+Pausar Todos
+Documentation
+
+Pausar
+Delete
+
+Pause the torrent
+Pausar o torrent
+
+Pause torrent
+Pausar torrent
+
+Pause torrents
+Pausar torrents
+
+Paused (%1)
+Pausado (%1)
+
+Paused (0)
+Pausado (0)
+
+Paused
+Pausado
+
+Peer connection protocol:
+Protocolo de conexão dos peers:
+
+Peer proportional (throttles TCP)
+Peer proporcional (sufoca o TCP)
+
+Peer turnover disconnect interval:
+Intervalo de desconexão da rotatividade dos peers:
+
+Peer turnover disconnect percentage:
+Porcentagem de desconexão da rotatividade dos peers:
+
+Peer turnover threshold percentage:
+Porcentagem do limite de rotatividade dos peers:
+
+Performance statistics
+Estatísticas da performance
+
+Physical memory (RAM) usage limit (applied if libtorrent &gt;= 2.0):
+Limite de uso da memória física (RAM) (aplicado se libtorrent &gt;= 2.0):
+
+Pieces:
+Pedaços:
+
+Please choose a folder name
+Por favor escolha um nome para pasta
+
+Please choose a new name for this RSS feed
+Por favor escolha um novo nome para este feed do RSS
+
+Please type a RSS feed URL
+Por favor digite uma URL de feed do RSS
+
+Please type the name of the new download rule.
+Por favor digite o nome da nova regra de download.
+
+Please type the new rule name
+Por favor digite o novo nome da regra
+
+Plugin path:
+Caminho do plugin:
+
+Port used for incoming connections:
+Porta usada para conexões de entrada:
+
+Port:
+Porta:
+
+Port
+Porta
+
+Pre-allocate disk space for all files
+Pré-alocar espaço em disco para todos os arquivos
+
+Prefer TCP
+Preferir TCP
+
+Prioridade
+Filter files...
+
+Privacy
+Privacidade
+
+Progress
+Progresso
+
+Progresso:
+Monitored Folder
+
+Proxy Server
+Servidor Proxy
+
+Queue
+Fila
+
+Queued I/O jobs:
+Trabalhos de E/S na fila:
+
+Queued for checking
+Na fila de verificação
+
+Queued
+Na Fila
+
+RSS Downloader...
+Baixador do RSS...
+
+RSS Reader
+Leitor de RSS
+
+RSS Smart Episode Filter
+Filtros dos Episódios Inteligentes do RSS
+
+RSS Torrent Auto Downloader
+Baixador automático dos torrents do RSS
+
+RSS feeds
+Feeds do RSS
+
+Random
+Aleatório
+
+Rate Limits Settings
+Configurações dos Limites da Taxa
+
+Ratio Limit
+Limite da proporção
+
+Ratio
+Proporção
+
+Read cache hits:
+Acertos do cache de leitura:
+
+Read cache overload:
+Sobrecarga do cache de leitura:
+
+Reannounce In:
+Reanunciar em:
+
+Reannounce to all trackers when IP or port changed:
+Reanunciar para todos os trackers quando o IP ou porta for alterado:
+
+Recheck torrents on completion:
+Verificar torrents de novo ao completar:
+
+Refresh interval:
+Intervalo de atualização:
+
+Regex mode: use Perl-compatible regular expressions
+Modo Regex: usar expressões regulares compatíveis com Perl
+
+Register to handle magnet links...
+Registrar para manipular os links magnet...
+
+Register
+Registrar
+
+Relevance
+Relevância
+
+Relocate affected torrents
+Realocar torrents afetados
+
+Relocate torrent
+Re-alocar torrent
+
+Remaining
+Restante
+
+Remove All
+Remover tudo
+
+Remove tag
+Remover etiqueta
+
+Remove torrent and its files
+Remover o torrent e seus arquivos
+
+Remove torrent(s)
+Remover torrent(s)
+
+Remove torrent
+Remover torrent
+
+Remove torrents
+Unread
+
+Remove tracker
+Remover tracker
+
+Remove unused categories
+Remover categorias não usadas
+
+Remove unused tags
+Remover etiquetas não usadas
+
+Remove
+Remover
+
+Remover categoria
+New Category
+
+Rename rule...
+Renomear regra...
+
+Rename torrent
+Renomear torrent
+
+Rename
+Renomear
+
+Renaming
+Renomeando
+
+Renomear Arquivos...
+%1 (seeded for %2)
+
+Renomear...
+Rename Files...
+
+Require encryption
+Requer encriptação
+
+Reset category
+Resetar categoria
+
+Reset
+Resetar
+
+Resolve peer countries:
+Revelar os países dos peers:
+
+Results
+Resultados
+
+Resume torrents
+Retomar torrents
+
+Resume/start the torrent
+Retomar/iniciar o torrent
+
+Resumed (%1)
+Retomado (%1)
+
+Resumed (0)
+Retomado (0)
+
+Retomar Todos
+Statistics
+
+Retomar
+Top Toolbar
+
+Round-robin
+Pontos-corridos
+
+Rss Downloader
+Baixador do RSS
+
+Rule Definition
+Definição da Regra
+
+Rule deletion confirmation
+Confirmação da exclusão da regra
+
+Rule renaming
+Renomeação da regra
+
+Run external program on torrent completion
+Executar programa externo ao completar o torrent
+
+SMTP server:
+Servidor SMTP:
+
+SOCKS4
+SOCKS5
+
+Saturday
+Sábado
+
+Save Path:
+Caminho do salvamento:
+
+Save files to location:
+Salvar arquivos no local:
+
+Save path is empty
+O caminho do salvamento está vazio
+
+Save path
+Caminho do salvamento
+
+Save resume data interval:
+Salvar o intervalo de dados de retomada:
+
+Save to a Different Directory
+Salvar num diretório diferente
+
+Save to:
+Salvar em:
+
+Save
+Salvar
+
+Saving Management
+Gerenciamento do Salvamento
+
+Schedule the use of alternative rate limits on
+Programar o uso de limites de taxas alternativos em
+
+Schedule the use of alternative rate limits
+Agendar o uso dos limites alternativos da taxa
+
+Search Engine
+Motor de Busca
+
+Search engine
+Motor de busca
+
+Search in:
+Procurar em:
+
+Search plugins...
+Plugins de busca...
+
+Search plugins
+Plugins de busca
+
+Search
+Busca
+
+Season number is a mandatory non-zero value
+O número da temporada é um valor obrigatório não-zero
+
+Security
+Segurança
+
+Seeding (%1)
+Semeando (%1)
+
+Seeding (0)
+Semeando (0)
+
+Seeding Limits
+Limites do Seeding
+
+Seeding time limit must be between 0 and 525600 minutes.
+O limite do tempo do seeding deve estar entre 0 e 525600 minutos.
+
+Seeding
+Semeando
+
+Seeds:
+Download Speed:
+
+Sem categoria
+Add category...
+
+Sempre
+Donate!
+
+Send buffer low watermark:
+Enviar marca d'água com buffer baixo:
+
+Send buffer watermark factor:
+Enviar fator da marca d'água do buffer:
+
+Send buffer watermark:
+Enviar marca d'água do buffer:
+
+Send upload piece suggestions:
+Enviar sugestões de pedaços do upload:
+
+Server domains:
+Domínios do servidor:
+
+Server-side request forgery (SSRF) mitigation:
+Atenuação da falsificação da requisição do lado do servidor (SSRF):
+
+Session Download
+Download da sessão
+
+Session Upload
+Upload da sessão
+
+Session timeout:
+Tempo para encerrar a sessão:
+
+Session waste:
+Perdas da sessão:
+
+Set location...
+Definir local...
+
+Set location
+Definir local
+
+Set no share limit
+Não definir limite de compartilhamento
+
+Set share limit to
+Definir limite de compartilhamento em
+
+Set to 0 to let your system pick an unused port
+Defina em 0 para deixar seu sistema escolher uma porta não usada
+
+Share Ratio:
+Proporção do compartilhamento:
+
+Share ratio limit must be between 0 and 9998.
+O limite da proporção de compartilhamento deve estar entre 0 e 9998.
+
+Share ratio
+Proporção de compartilhamento
+
+Sim
+No
+
+Single number: &lt;b&gt;1x25;&lt;/b&gt; matches episode 25 of season one
+Número único: &lt;b&gt;1x25;&lt;/b&gt; combina com o episódio 25 da temporada um
+
+Size:
+Tamanho:
+
+Size
+Tamanho
+
+Smart Episode Filter will check the episode number to prevent downloading of duplicates.
+O filtro inteligente dos episódios verificará o número do episódio para impedir o download das duplicatas.
+
+Socket backlog size:
+Tamanho do backlog do soquete:
+
+Software Used
+Software usado
+
+Special Thanks
+Agradecimentos Especiais
+
+Speed in Title Bar
+Velocidade na Barra de Título
+
+Speed
+Velocidade
+
+Stalled (%1)
+Parado (%1)
+
+Stalled (0)
+Parado (0)
+
+Stalled Downloading (%1)
+Download parado (%1)
+
+Stalled Downloading (0)
+Download parado (0)
+
+Stalled Uploading (%1)
+Upload parado (%1)
+
+Stalled Uploading (0)
+Upload parado (0)
+
+Stalled
+Parado
+
+Status
+Peers
+
+Stop condition:
+Condição de parada:
+
+Stop tracker timeout:
+Parar o tempo para encerrar o tracker:
+
+Stop
+Parar
+
+Substituir o local do salvamento
+Monitored folder
+
+Sunday
+Domingo
+
+Super seeding mode
+Modo super seeding
+
+Support internationalized domain name (IDN):
+Suporte a nome internacionalizado de domínio (IDN):
+
+Supported parameters (case sensitive):
+Parâmetros suportados (caso sensitivo):
+
+Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also support - as a separator)
+Suporta os formatos: S01E01, 1x1, 2017.12.31 e 31.12.2017 (Os formatos de data também suportam - como um separador)
+
+Switch affected torrents to Manual Mode
+Trocar os torrents afetados para o modo manual
+
+Switch torrent to Manual Mode
+Trocar o torrent para o modo manual
+
+TCP and μTP
+TCP e μTP
+
+Tag:
+Etiqueta:
+
+Tag
+Etiqueta
+
+Tags
+Etiquetas
+
+The Web UI password must be at least 6 characters long.
+A senha de interface do usuário da web deve ter pelo menos 6 caracteres.
+
+The Web UI username must be at least 3 characters long.
+O nome de usuário da interface de usuário da web deve pelo menos ter mais que 3 caracteres.
+
+The alternative Web UI files location cannot be blank.
+O local alternativo dos arquivos da interface de usuário da web não pode estar em branco.
+
+The free IP to Country Lite database by DB-IP is used for resolving the countries of peers. The database is licensed under the Creative Commons Attribution 4.0 International License
+O banco de dados grátis do IP to Country Lite da DB-IP é usado para revelar os
+ países dos peers. O banco de dados está licenciado sob a Licença Internacional da Creative Commons Attribution 4.0
+The port used for incoming connections must be between 0 and 65535.
+A porta usada para conexões de entrada deve estar entre 0 e 65535.
+
+The port used for the Web UI must be between 1 and 65535.
+A porta usada para a interface de usuário da web deve estar entre 1 e 65535.
+
+There aren't any search plugins installed.
+Não há plug-ins de pesquisa instalados.
+
+This option is less effective on Linux
+Esta opção é menos efetiva no Linux
+
+This server requires a secure connection (SSL)
+Este servidor requer uma conexão segura (SSL)
+
+Three range types for episodes are supported: 
+Três tipos de alcance pros episódios são suportados: 
+
+Thursday
+Quinta
+
+Tier
+Camada
+
+Time (duration) the torrent is active (not paused)
+Tempo (duração) em que o torrent esteve ativo (não pausado)
+
+Time Active:
+Tempo ativo:
+
+Time Active
+Tempo ativo
+
+Time passed since a chunk was downloaded/uploaded
+Tempo passado desde que um pedaço foi baixado/enviado
+
+Times Downloaded
+Número de vezes baixado
+
+Tip: Encapsulate parameter with quotation marks to avoid text being cut off at whitespace (e.g., "%N")
+Dica: Encapsular o parâmetro com aspas para evitar que o texto seja cortado nos espaços em branco (ex: "%N")
+
+To use this feature, the WebUI needs to be accessed over HTTPS
+Para usar esta função a interface de usuário da web precisa ser acessada via HTTPS
+
+To:
+Até:
+
+Toggle Selection
+Alternar seleção
+
+Topo da fila
+Move Down Queue
+
+Torrent Download Speed Limiting
+Limitando a Velocidade de Download do Torrent
+
+Torrent ID
+ID do torrent
+
+Torrent Management Mode:
+Modo de Gerenciamento dos Torrents:
+
+Torrent Queueing
+Torrents na Fila
+
+Torrent Upload Speed Limiting
+Limitando a Velocidade de Upload do Torrent
+
+Torrent Upload/Download Ratio Limiting
+Limite da proporção do upload/download do torrent
+
+Torrent content layout:
+Layout do conteúdo do torrent:
+
+Torrent inactivity timer must be greater than 0.
+O timer de inatividade do torrent deve ser maior do que 0.
+
+Torrent inactivity timer:
+Cronômetro da inatividade do torrent:
+
+Torrent names only
+Só nomes dos torrents
+
+Torrent save path
+Caminho do salvamento do Torrent
+
+Torrent status (e.g. downloading, seeding, paused)
+Status do torrent (por exemplo, download, propagação, pausado)
+
+Torrents: (double-click to download)
+Torrents: (clique-duplo para baixar)
+
+Total Downloads: %1 (%2\%)
+Downloads totais: %1 (%2\%)
+
+Total Size:
+Tamanho Total:
+
+Total Size
+Tamanho Total
+
+Total Size
+Tamanho total
+
+Total buffer size:
+Tamanho total do buffer:
+
+Total queued size:
+Tamanho total na fila:
+
+Tracker URL:
+URL do tracker:
+
+Tracker editing
+Editar Tracker
+
+Trackerless (%1)
+Sem tracker (%1)
+
+Trackers addition dialog
+Diálogo de adição dos trackers
+
+Transfer
+Transferência
+
+Transfers
+Transferências
+
+Translators
+Tradutores
+
+Trusted proxies list:
+Lista de proxies confiáveis:
+
+Tudo
+Uncategorized
+
+Tuesday
+Terça
+
+Type folder here
+Digite a pasta aqui
+
+Type of service (ToS) for connections to peers
+Tipo de serviço (ToS) para as conexões com os peers
+
+Type:
+Tipo:
+
+UPnP lease duration [0: Permanent lease]:
+Duração do arrendamento do UPnP [0: Arrendamento permanente]:
+
+URL or local directory
+URL ou diretório local
+
+Unable to add peers. Please ensure you are adhering to the IP:port format.
+Incapaz de adicionar os peers. Por favor garanta que você está aderindo ao formato do IP:porta.
+
+Unable to create category
+Incapaz de criar a categoria
+
+Unable to log in, qBittorrent is probably unreachable.
+Incapaz de fazer login; o qBittorrent provavelmente é inalcançável.
+
+Unable to save program preferences, qBittorrent is probably unreachable.
+Incapaz de salvar as preferências do programa, o qBittorrent provavelmente é inalcançável.
+
+Uninstall
+Desinstalar
+
+Unknown (size)
+Desconhecido (tamanho)
+
+Unknown
+Desconhecido
+
+Untagged
+Sem etiqueta
+
+Up Limit
+Limite do upload
+
+Up Speed
+Velocidade de upload
+
+Update all feeds
+Atualizar todos os feeds
+
+Update all
+Atualizar todos
+
+Update my dynamic domain name
+Atualizar meu nome de domínio dinâmico
+
+Update
+Atualizar
+
+Updating...
+Atualizando...
+
+Upload Limit:
+Limite do Upload:
+
+Upload Torrents
+Carregar Torrents
+
+Upload choking algorithm:
+Algoritmo de sufocamento do upload:
+
+Upload local torrent
+Fazer upload do torrent local
+
+Upload rate based
+Baseado na taxa de upload
+
+Upload rate threshold must be greater than 0.
+O limite da taxa de upload deve ser maior do que 0.
+
+Upload rate threshold:
+Limite da taxa de upload:
+
+Upload slots behavior:
+Comportamento dos slots de upload:
+
+Upload speed icon
+Ícone da velocidade de upload
+
+Upload torrent files to qBittorent using WebUI
+Fazer upload dos torrents
+
+Upload:
+Download:
+
+Uploaded:
+Enviados:
+
+Uploaded
+Enviados
+
+Use HTTPS instead of HTTP
+Usar HTTPS ao invés do HTTP
+
+Use Regular Expressions
+Usar expressões regulares
+
+Use Smart Episode Filter
+Usar filtro inteligente dos episódios
+
+Use UPnP / NAT-PMP port forwarding from my router
+Usar a abertura das portas UPnP / NAT-PMP do meu roteador
+
+Use UPnP / NAT-PMP to forward the port from my router
+Usar UPnP / NAT-PMP para abrir a porta do meu roteador
+
+Use alternative Web UI
+Usar interface alternativa de usuário da web
+
+Use global settings
+Usar configurações globais
+
+Use global share limit
+Usar limite global de compartilhamento
+
+Use piece extent affinity:
+Usar afinidade da extensão dos pedaços:
+
+Use proxy for peer connections
+Usar proxy para conexões com os peers
+
+Use proxy only for torrents
+Usar proxy só para torrents
+
+User Interface Language:
+Idioma da interface de usuário:
+
+User statistics
+Estatísticas do usuário
+
+Username:
+Nome de usuário:
+
+Username
+Nome de usuário
+
+Validate HTTPS tracker certificate:
+Validar certificado do tracker HTTPS:
+
+Vel. Download:
+Upload Speed:
+
+Vel. Upload:
+Peers:
+
+Version
+Versão
+
+Visualizar
+Options...
+
+Warning: Be sure to comply with your country's copyright laws when downloading torrents from any of these search engines.
+Aviso: Certifique-se de obedecer as leis de copyright do seu país quando baixar torrents de qualquer destes motores de busca.
+
+Warning
+Aviso
+
+Wasted:
+Perdas:
+
+Web UI
+Interface de Usuário da Web
+
+Web User Interface (Remote control)
+Interface de Usuário da Web (Controle remoto)
+
+Wednesday
+Quarta
+
+Weekdays
+Dias da semana
+
+Weekends
+Finais de semana
+
+When Category Save Path changed:
+Quando o caminho do salvamento da categoria mudar:
+
+When Default Save Path changed:
+Quando o caminho padrão do salvamento mudar:
+
+When Torrent Category changed:
+Quando a categoria do torrent for mudada:
+
+When adding a torrent
+Quando adicionar um torrent
+
+When ratio reaches
+Quando a proporção alcançar
+
+When seeding time reaches
+Quando o tempo do seeding alcançar
+
+When:
+Quando:
+
+Whitespaces count as AND operators (all words, any order)
+Espaços em branco contam como operadores AND (todas as palavras, qualquer ordem)
+
+Wildcard mode: you can use
+Modo wildcard: você pode usar
+
+Working
+Funcionando
+
+Would you like to pause all torrents?
+Deseja pausar todos os torrents?
+
+Would you like to resume all torrents?
+Deseja retomar todos os torrents?
+
+Write cache overload:
+Sobrecarga do cache da gravação:
+
+Write-through (requires libtorrent &gt;= 2.0.6)
+Write-through (requer libtorrent &gt;= 2.0.6)
+
+You can get new search engine plugins here:
+Você pode obter novos plugins de motor de busca aqui:
+
+Your browser does not support this feature
+Seu navegador não suporta esta função
+
+[F] Downloading metadata
+[F] Baixando metadados
+
+[F] Downloading
+[F] Baixando
+
+[F] Seeding
+[F] Semeando
+
+ban for:
+banir por:
+
+dias
+Always
+
+i.e. Move to bottom of the queue
+ou seja, vai para o final da fila
+
+i.e: Download limit
+ou seja: limite de download
+
+i.e: Estimated Time of Arrival / Time left
+ou seja: tempo estimada de chegada / tempo restante
+
+i.e: Upload limit
+ou seja: limite de upload
+
+libtorrent Section
+Seção do libtorrent
+
+min
+mín
+
+minutes
+minutos
+
+out of
+fora de
+
+per second
+por segundo
+
+qBittorrent Mascot
+Mascote do qBittorrent
+
+qBittorrent Section
+Seção do qBittorrent
+
+qBittorrent client is not reachable
+O Cliente qBittorrent não é alcançável
+
+qBittorrent has been shutdown
+O qBittorrent foi fechado
+
+qBittorrent icon
+Ícone do qBittorrent
+
+qBittorrent was built with the following libraries:
+O qBittorrent foi construído com as seguintes bibliotecas:
+
+ratio
+proporção
+
+seconds
+segundos
+
+showing
+mostrando
+
+then
+então
+
+to
+até
+
+will exclude all articles.
+apagará todos os artigos.
+
+will match 2, 5, 8 through 15, 30 and onward episodes of season one
+combinará os episódios 2, 5, 8 até 15 e 30 e dos episódios posteriores da temporada um
+
+will match all articles.
+combinará com todos os artigos.
+
+| is used as OR operator
+| é usado como operador OR
+
+μTP-TCP mixed mode algorithm:
+Algorítmo de modo misto do μTP-TCP:
