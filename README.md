@@ -48,10 +48,11 @@ python translator.pyw
 
 Espero que esta tradução torne a experiência do qBittorrent mais acessível para a comunidade brasileira 🚀
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 -------------
 
-> Made with ❤️ by nullbyte-s
-
-> [Voltar ao Início](#index)
+<h5 align="center">
+  Made with 💜 by <a href="https://github.com/nullbyte-s/">nullbyte-s</a><br>
+  <a href="https://choosealicense.com/licenses/mit/"><br>
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+  </a>
+</h5>
